@@ -29,7 +29,7 @@ int main() {
     mau1sau=mau1truoc/ucln1;
     tu2sau=tu2truoc/ucln2;
     mau2sau=mau2truoc/ucln2;
-    //Quy đồng và so sánh 2 phân số, sau đó xuấtt kết quả
+    //Quy đồng và so sánh 2 phân số, sau đó xuất kết quả
     tu1sau=tu1sau*mau2sau;
     tu2sau=tu2sau*mau1sau;
     mau1sau=mau1sau*mau2sau;
